@@ -3,15 +3,14 @@
 Start: `node .`
 
 New package: `npm i` and `npm init -y`
-# `PROJECT MaxDev6966`
 
-☃︎ | Project Owner: MaxDev6966<br>⚠︎ | Do Not Change Any Of The Credits
+☃︎ | Project Owner: Jaydo15<br>⚠︎ | Do Not Change Any Of The Credits
 
 **__THE BEST GIVEAWAY DISCORD BOT__**
 
-**__MADE BY MaxDev6966__**
+**__MADE BY JAYDO15__**
 
-`SUB TO MaxDev6966`
+`SUB TO Elixer`
 
 `JOIN OUR SERVER FOR MORE UPDATES AND HELP`
 
